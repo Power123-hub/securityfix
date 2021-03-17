@@ -1004,3 +1004,4 @@ client.on("message", msg => {
     msg.reply("```You cant send here .```");
   }
 });
+client.login("NzM0ODY4NTA3MjY2OTA4MTcx.XxX9oQ.4HgkUWU-e7zooMNkrj9hWYiZKd8")
