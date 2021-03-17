@@ -30,8 +30,8 @@ const { get } = require("snekfetch");
 const guild = require("guild");
 const dateFormat = require("dateformat");
 const pretty = require("pretty-ms");
-client.login("token"); ////////////////mrfix
-const prefix = "prefix";
+//client.login("NzM0ODY4NTA3MjY2OTA4MTcx.XxX9oQ.4HgkUWU-e7zooMNkrj9hWYiZKd8"); ////////////////mrfix
+const prefix = "1";
 var table = require("table").table;
 const Discord = require("discord.js");
 client.on("ready", () => {
@@ -1004,3 +1004,4 @@ client.on("message", msg => {
     msg.reply("```You cant send here .```");
   }
 });
+client.login("NzM0ODY4NTA3MjY2OTA4MTcx.XxX9oQ.4HgkUWU-e7zooMNkrj9hWYiZKd8")
